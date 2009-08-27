@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo /Library/StartupItems/MySQLCOM/MySQLCOM stop
+sudo /Library/StartupItems/MySQLCOM/MySQLCOM start
