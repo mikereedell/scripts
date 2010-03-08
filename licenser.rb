@@ -1,4 +1,3 @@
-
 # Get the list of all java files - DONE
 # If they have the license in them, ignore
 # else add the license to the top of the file and save. - DONE
@@ -20,7 +19,7 @@ end
 	
 HEADER = <<HEAD
 /*
- * Copyright 2008-2009 Mike Reedell / LuckyCatLabs.
+ * Copyright 2008-2010 Mike Reedell / LuckyCatLabs.
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
