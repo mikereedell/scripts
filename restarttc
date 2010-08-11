@@ -5,5 +5,5 @@ do
   kill -9 $i
 done
 
-./usr/local/tomcat/bin/startup.sh
+/usr/local/tomcat/bin/startup.sh
 
