@@ -1,5 +1,4 @@
 #!/bin/bash
 
-sudo /Library/StartupItems/MySQLCOM/MySQLCOM stop
-sudo rm /tmp/mysqlquery.log
-sudo /Library/StartupItems/MySQLCOM/MySQLCOM start
+mysql.server stop
+mysql.server start
